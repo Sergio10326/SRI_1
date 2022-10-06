@@ -1,4 +1,4 @@
-# Hola Mundo
+
 Version: define la versión del docker-compose que se va a utilizar
 services: engloba los distintos servicios y opciones que se pueden añadir al contenedor
 asir_bind9: es el nombre del primer servicio
